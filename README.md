@@ -22,14 +22,12 @@
 
 ![Screenshot_247](https://github.com/user-attachments/assets/956a2116-caeb-4d07-8b89-3fdd9633ce1b)
 
-
 4. Проверяем установку командой:
    ```sh
    php -v
    ```
 
 ![Screenshot_248](https://github.com/user-attachments/assets/0ed565ba-1f11-4261-9b4d-d6af2215a595)
-
 
 ### Установка через XAMPP
 Если хочется упростить процесс, можно воспользоваться XAMPP:
@@ -79,7 +77,6 @@ echo "Привет, мир!";
 
 ![image](https://github.com/user-attachments/assets/60cfe44b-f0b1-4761-a14a-fada52b4f845)
 
-
 ## Основы вывода данных в PHP
 
 ### Операторы `echo` и `print`
@@ -97,9 +94,6 @@ print "Hello, World with print!";
 - `echo` быстрее, принимает несколько аргументов через запятую, нельзя использовать в выражении и не возвращает значение.
 - `print` медленнее, поддерживает только один аргумент, возвращает `1`, что позволяет использовать его в выражениях.
 
-![image](https://github.com/user-attachments/assets/6a3a9369-737e-4a26-a1fb-f7747561f0a6)
-
-
 ## Работа с переменными
 Создаём переменные и выводим их:
 ```php
@@ -112,7 +106,6 @@ echo "$message";
 Здесь применяется оператор `.` для объединения строк и вывод с двойными кавычками.
 
 ![image](https://github.com/user-attachments/assets/e5ffbf25-a678-4f55-90cf-4a65586a5d07)
-
 
 ## Вопросы и ответы
 
@@ -157,7 +150,6 @@ echo $success; // Выведет 1
 4. **Какие инструменты упрощают работу с PHP?**  
    - Редакторы: [VS Code](https://code.visualstudio.com/), [PHPStorm](https://www.jetbrains.com/phpstorm/).
    - Локальные серверы: [XAMPP](https://www.apachefriends.org/), [Laragon](https://laragon.org/).
-
 
 ## Источники
 1. [Документация PHP](https://www.php.net/docs.php)
