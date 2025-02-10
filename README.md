@@ -89,7 +89,8 @@ echo "Hello, World with echo!";
 print "Hello, World with print!";
 ```
 
-![image](https://github.com/user-attachments/assets/166ae404-218e-4be3-927b-eef9bf7e86c9)
+![echo && print](https://github.com/user-attachments/assets/5c93b495-efb1-43e6-a997-083212440a6b)
+
 
 Разница:
 - `echo` быстрее, принимает несколько аргументов через запятую, нельзя использовать в выражении и не возвращает значение.
