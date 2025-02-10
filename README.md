@@ -85,8 +85,8 @@ echo "Привет, мир!";
 ### Операторы `echo` и `print`
 PHP позволяет выводить данные несколькими способами:
 ```php
-echo "Привет, мир!";
-print "Привет, мир!";
+echo "Hello, World with echo!";
+print "Hello, World with print!";
 ```
 
 ![image](https://github.com/user-attachments/assets/166ae404-218e-4be3-927b-eef9bf7e86c9)
