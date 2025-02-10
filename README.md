@@ -61,9 +61,15 @@ echo "Привет, мир!";
 
 ### Запуск программы
 Запускаем скрипт одним из способов:
+
+- Запускаем сервер:
+```sh
+ php -S localhost:8000
+```
+
 - Через встроенный сервер PHP:
   ```sh
-  php -S localhost:8000
+   php index.php
   ```
 
 ![image](https://github.com/user-attachments/assets/0dc14812-7b38-4e77-ab1a-3b4d1a388ba0)
