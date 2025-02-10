@@ -91,6 +91,7 @@ print "Hello, World with print!";
 
 ![echo && print](https://github.com/user-attachments/assets/5c93b495-efb1-43e6-a997-083212440a6b)
 
+![image](https://github.com/user-attachments/assets/4ec2d589-b24e-4b97-9e0f-87d2e0d757a0)
 
 Разница:
 - `echo` быстрее, принимает несколько аргументов через запятую, нельзя использовать в выражении и не возвращает значение.
