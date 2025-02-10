@@ -68,8 +68,8 @@ echo "Привет, мир!";
 ```
 
 - Через встроенный сервер PHP:
-  ```sh
-   php index.php
+```sh
+ php index.php
   ```
 
 ![image](https://github.com/user-attachments/assets/0dc14812-7b38-4e77-ab1a-3b4d1a388ba0)
