@@ -9,7 +9,6 @@
 - Разобраться с базовыми операторами вывода данных.
 - Познакомиться с переменными и способами их вывода.
 
----
 ## Установка PHP
 
 ### Установка вручную
@@ -42,7 +41,6 @@
 3. Запускаем XAMPP Control Panel и активируем Apache.
 4. Проверяем работу сервера, открыв в браузере [http://localhost](http://localhost).
 
----
 ## Первая программа на PHP
 
 ### Создание проекта
@@ -76,7 +74,6 @@ echo "Привет, мир!";
 ![image](https://github.com/user-attachments/assets/60cfe44b-f0b1-4761-a14a-fada52b4f845)
 
 
----
 ## Основы вывода данных в PHP
 
 ### Операторы `echo` и `print`
@@ -94,7 +91,7 @@ print "Привет, мир!";
 
 ![image](https://github.com/user-attachments/assets/6a3a9369-737e-4a26-a1fb-f7747561f0a6)
 
----
+
 ## Работа с переменными
 Создаём переменные и выводим их:
 ```php
@@ -108,7 +105,7 @@ echo "$message";
 
 ![image](https://github.com/user-attachments/assets/e5ffbf25-a678-4f55-90cf-4a65586a5d07)
 
----
+
 ## Вопросы и ответы
 
 1. **Какие способы установки PHP существуют?**  
@@ -153,13 +150,10 @@ echo $success; // Выведет 1
    - Редакторы: [VS Code](https://code.visualstudio.com/), [PHPStorm](https://www.jetbrains.com/phpstorm/).
    - Локальные серверы: [XAMPP](https://www.apachefriends.org/), [Laragon](https://laragon.org/).
 
----
 
 ## Источники
 1. [Документация PHP](https://www.php.net/docs.php)
 2. [Руководство по XAMPP](https://www.apachefriends.org/docs.html)
-
----
 
 ## Итоги
 Я успешно установил PHP, разобрался с запуском первого скрипта и освоил базовые конструкции. Это важный первый шаг в изучении веб-разработки!
