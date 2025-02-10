@@ -117,6 +117,7 @@ echo "$message";
 
 2. **Как проверить установку PHP?**  
    - Выполнить команду `php -v` в терминале.
+   - Выполнить команду `php -S localhost:8000` в терминале.
 
 ![image](https://github.com/user-attachments/assets/a3d09a6d-48cc-4ecd-ad29-9b0c8688decc)
 
