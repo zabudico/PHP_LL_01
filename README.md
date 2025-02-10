@@ -155,8 +155,10 @@ echo $success; // Выведет 1
 ---
 ## Примеры
 ### Скриншоты работы:
-![Установка PHP](./screenshots/php_install.png)
-![Первая программа](./screenshots/php_first_program.png)
+![Установка PHP](![Screenshot_247](https://github.com/user-attachments/assets/9f91a770-1773-40c1-b10c-262091c1c117))
+![Версия PHP](https://github.com/user-attachments/assets/80395b7a-e1cb-4017-b581-49d49d7db3aa)
+
+![Первая программа](![image](https://github.com/user-attachments/assets/c3e3ea96-6492-4e93-9724-70149a32029f))
 
 ---
 ## Источники
