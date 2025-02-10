@@ -146,7 +146,7 @@ echo "Привет", " ", "мир", "!"; // Можно передавать не
 print "Привет, мир!";
 $success = print "Привет!"; // Можно использовать в выражениях
 echo $success; // Выведет 1
-
+```
 
 4. **Какие инструменты упрощают работу с PHP?**  
    - Редакторы: [VS Code](https://code.visualstudio.com/), [PHPStorm](https://www.jetbrains.com/phpstorm/).
